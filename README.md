@@ -1,3 +1,2 @@
 # niver-bentinho2
-Niver do Bentinho
-https://juliomonteiro25.github.io/niver-bentinho2/
+https://niver-bentinho2.github.io/niver-bentinho2/
